@@ -7,6 +7,7 @@
   <img align="center" alt="Pedro-BDD" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Pedro-Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Pedro-php" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+   <img align="center" alt="Pedro-python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="https://animes.olanerd.com/wp-content/uploads/2022/08/1661195103_94_O-que-saber-antes-dos-Edgerunners.jpg"/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
     
